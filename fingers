@@ -1,0 +1,59 @@
+
+
+
+QWERTY
+-----------------------
+
+	"FJ", 	/* home  */
+	"DK", 
+	"SL", 
+	"A;", 
+
+	"GH", 	/*  extended home  */
+
+	"RU",	/* index  */
+	"TY", 
+	"EI", 	/*  middle  */
+	"WO", 	/*  ring  */
+	"QP", 	/*  little  */
+
+	"VM", 	/*  index  */
+	"BN", 
+	"C,", 	/*  middle  */
+	"X.", 	/*  ring  */
+	"Z/", 	/*  little  */
+
+	"67", 	/*  index  - on the natural keyboard  */
+	"5",
+	"48", 	/*  middle  */
+	"3",
+	"29", 	/*  ring  */
+	"10" 	/*  little  */
+
+DVORAK
+----------------------------------
+	"UH", 	/* home  */
+	"ET", 
+	"ON", 
+	"AS", 
+
+	"ID", 	/*  extended home  */
+
+	"PG",	/* index  */
+	"YF", 
+	".C", 	/*  middle  */
+	",R", 	/*  ring  */
+	"'L", 	/*  little  */
+
+	"KM", 	/*  index  */
+	"XB", 
+	"JW", 	/*  middle  */
+	"QV", 	/*  ring  */
+	";Z", 	/*  little  */
+
+	"67", 	/*  index  - on the natural keyboard  */
+	"5",
+	"48", 	/*  middle  */
+	"3",
+	"29", 	/*  ring  */
+	"10", 	/*  little  */

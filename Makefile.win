@@ -1,0 +1,11 @@
+# Makefile for Windows
+
+drill.exe : drill.c
+	cl /nologo drill.c
+
+clean:
+	del *.obj
+
+realclean: clean
+	del drill.exe
+
