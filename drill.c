@@ -1,6 +1,6 @@
 
 
-/*  Typing drill by Blake McBride (blake@edge.net)
+/*  Typing drill by Blake McBride (blake1024@gmail.com))
     Placed in the public domain in 1998
 */
 
