@@ -7,7 +7,7 @@ DRILL is written in C and has been tested on Linux, Mac, and Windows.
 
 The program allows you to learn in levels with a limited group of keys at a time.  It embodies what I thought would be a good way to learn.  It is easily configured and extended.
 
-The master copy of this system is located at:  https://github.com/blakemcbride/Drill
+Source code is located at:  [https://github.com/blakemcbride/Drill](https://github.com/blakemcbride/Drill)
 
 Blake McBride
 
